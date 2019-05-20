@@ -1,0 +1,3 @@
+Central Maven Repo: https://repo.maven.apache.org/maven2/
+Central Maven Repo Search Engine: https://search.maven.org/
+Maven Repo: https://mvnrepository.com/
